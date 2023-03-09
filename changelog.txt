@@ -1,0 +1,5 @@
+Highlights & Device Specific Changes:
+Build type: Unofficial
+Device: Redmi Note 7 (lavender)
+Device maintainer: 0xsharkboy
+
