@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1678255997,
-      "filename": "lineage-20.0-20230308-UNOFFICIAL-lavender.zip",
+      "filename": "ota-package.zip",
       "id": "eu1iegeixy7qjakvw8lphaiuxe1w1g",
-      "romtype": "unofficial",
+      "romtype": "UNOFFICIAL",
       "size": 7606984584,
-      "url": "https://example.com/ota-package.zip",
+      "url": "https://github.com/SharkBoy69-CS/Lineage_OTA/releases/download/OTA_Update/lineage-20.0-20230308-UNOFFICIAL-lavender.zip",
       "version": "20.0"
     }
   ]
