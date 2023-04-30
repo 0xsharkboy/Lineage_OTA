@@ -2,10 +2,10 @@
   "response": [
     {
       "datetime": 1682788865,
-      "filename": "ota-package.zip",
+      "filename": "signed-ota_update.zip",
       "id": "ZfKDnszveGDhgpQ83AtNb4mQje7ybW",
       "romtype": "UNOFFICIAL",
-      "size": 960801,
+      "size": 960801000,
       "url": "https://github.com/SharkBoy69-CS/Lineage_OTA/releases/download/ota-april/signed-ota_update.zip",
       "version": "20.0"
     }
