@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1682788865,
-      "filename": "signed-ota_update.zip",
-      "id": "ZfKDnszveGDhgpQ83AtNb4mQje7ybW",
+      "datetime": "1682923380",
+      "filename": "lineage-20.0-20230501-UNOFFICIAL-lavender.zip",
+      "id": "11e592da5a1b4bc8476b6216833ad64a26b71151aa74d2e21e44c7590a721988",
       "romtype": "UNOFFICIAL",
-      "size": 960801000,
-      "url": "https://github.com/SharkBoy69-CS/Lineage_OTA/releases/download/ota-april/signed-ota_update.zip",
+      "size": "959137605",
+      "url": "https://github.com/SharkBoy69-CS/Lineage_OTA/releases/download/lavender_lineage-20.0_1682923380/lineage-20.0-20230501-UNOFFICIAL-lavender.zip",
       "version": "20.0"
     }
   ]
