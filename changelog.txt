@@ -1,9 +1,10 @@
 Highlights & Device Specific Changes:
-Build type: Stable
+Build type: Unofficial
 Device: Redmi Note 7 (lavender)
-Device maintainer: Yan (Yacha)
+Device maintainer: SharkB69y
 
 
 ===== 4 August, 2023 =====
+ - Synced source
  - Merged May 2023 Security Patch
  - Adjusted clock on top bar
