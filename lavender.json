@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1687461360",
-      "filename": "lineage-20.0-20230622-UNOFFICIAL-lavender.zip",
-      "id": "c38fd7a4684c9690bed2663816a3f24cc2d259b41368f54e89d0b83a50251ded",
+      "datetime": "1687934057",
+      "filename": "lineage-20.0-20230628-UNOFFICIAL-lavender.zip",
+      "id": "e66c736ff735571ee57545d96a49a3fb0116b4fd3656285f14ed423d693b039c",
       "romtype": "UNOFFICIAL",
-      "size": "961875241",
-      "url": "https://github.com/SharkBoy69-CS/Lineage_OTA/releases/download/lavender_lineage-20.0_1687461360/lineage-20.0-20230622-UNOFFICIAL-lavender.zip",
+      "size": "962897235",
+      "url": "https://github.com/SharkBoy69-CS/Lineage_OTA/releases/download/lavender_lineage-20.0_1687934057/lineage-20.0-20230628-UNOFFICIAL-lavender.zip",
       "version": "20.0"
     }
   ]
