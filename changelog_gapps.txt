@@ -6,3 +6,9 @@ Device maintainer: SharkB69y
 
 ===== 26 August, 2023 =====
 - Initial Lineage 20.0 MindTheGapps release
+
+===== 27 September, 2023 =====
+ - Merged September Security patch
+ - Rave kernel updated to 4.9 (kernelsu update)
+ - Added video 60 fps support on Aperture (switch to 4k preset if camera is zoomed in 1080p)
+ - Updated graphic drivers (Vulkan and OpenGL)
