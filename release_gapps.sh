@@ -21,7 +21,7 @@ TYPE=$(echo $FILENAME | cut -f4 -d '-')
 VERSION=$(echo $FILENAME | cut -f2 -d '-')
 RELASE_TAG=${DEVICE}_lineage_gapps-${VERSION}_${TIMESTAMP}
 
-URL="https://github.com/SharkBoy69-CS/Lineage_OTA/releases/download/${RELASE_TAG}/${FILENAME}"
+URL="https://github.com/0xsharkboy/Lineage_OTA/releases/download/${RELASE_TAG}/${FILENAME}"
 
 response=$(jq -n --arg datetime $TIMESTAMP \
         --arg filename $FILENAME \
