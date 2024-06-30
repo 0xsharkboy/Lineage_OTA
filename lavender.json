@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "",
-      "filename": "",
-      "id": "",
-      "romtype": "",
-      "size": "",
-      "url": "",
-      "version": ""
+      "datetime": "1719737685",
+      "filename": "lineage-21.0-20240630-UNOFFICIAL-lavender.zip",
+      "id": "a8e681f7d7a8206d3dcb45ae55429b844663c63f393164139f78decf010b5131",
+      "romtype": "UNOFFICIAL",
+      "size": "1039976671",
+      "url": "https://github.com/0xsharkboy/Lineage_OTA/releases/download/lavender_lineage-21.0_1719737685/lineage-21.0-20240630-UNOFFICIAL-lavender.zip",
+      "version": "21.0"
     }
   ]
 }
