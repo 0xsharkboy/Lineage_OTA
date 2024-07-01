@@ -3,3 +3,5 @@ Build type: Unofficial
 Device: Redmi Note 7 (lavender)
 Device maintainer: 0xsharkboy
 
+===== 1 July, 2024 =====
+ - Initial 21.0 release
