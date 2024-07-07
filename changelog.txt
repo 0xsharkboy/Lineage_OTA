@@ -5,3 +5,7 @@ Device maintainer: 0xsharkboy
 
 ===== 1 July, 2024 =====
  - Initial 21.0 release
+
+===== 7th July, 2024 =====
+ - Fixed auto rotation
+ - Fixed video camera not working
