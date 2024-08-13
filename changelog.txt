@@ -9,3 +9,9 @@ Device maintainer: 0xsharkboy
 ===== 7th July, 2024 =====
  - Fixed auto rotation
  - Fixed video camera not working
+
+===== 12th July, 2024 =====
+ - Clean flash is MANDATORY
+ - August security patch
+ - Switched to San Kernel R1.1 (linux 4.19)
+ - Replaced AudioFX with Dolby Atmos
