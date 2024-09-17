@@ -15,3 +15,8 @@ Device maintainer: 0xsharkboy
  - August security patch
  - Switched to San Kernel R1.1 (linux 4.19)
  - Replaced AudioFX with Dolby Atmos
+
+ ===== 16th September, 2024 =====
+ - September security patch
+ - Reserved more space for addons (ex: MindTheGapps)
+ - Merged latest San Kernel
