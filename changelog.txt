@@ -16,12 +16,15 @@ Device maintainer: 0xsharkboy
  - Switched to San Kernel R1.1 (linux 4.19)
  - Replaced AudioFX with Dolby Atmos
 
- ===== 16th September, 2024 =====
+===== 16th September, 2024 =====
  - September security patch
  - Reserved more space for addons (ex: MindTheGapps)
  - Merged latest San Kernel
 
-  ===== 15th October, 2024 =====
+===== 15th October, 2024 =====
  - October security patch
  - Updated Graphics stack from taimen-11/S62Pro
  - Merged latest San Kernel
+
+===== 19th October, 2024 =====
+ - Fixed front camera issues
